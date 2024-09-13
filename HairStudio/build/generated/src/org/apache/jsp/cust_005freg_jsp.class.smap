@@ -1,0 +1,16 @@
+SMAP
+cust_005freg_jsp.java
+JSP
+*S JSP
+*F
++ 0 cust_reg.jsp
+cust_reg.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+1,62:49
+62,4:111
+65,32:115
+1#1,36:147
+96#0,10:183
+*E
